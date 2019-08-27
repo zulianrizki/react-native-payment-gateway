@@ -39,10 +39,10 @@ dependencies {
     api 'com.midtrans:corekit:1.23.2'
 
     // For using the Veritrans Production
-    // compile 'com.midtrans:corekit:1.21.2'
+    // compile 'com.midtrans:corekit:1.21.1'
 
     // For using the Midtrans Sandbox
-    api 'com.midtrans:uikit:1.23.2' // change the number to the latest version
+    api 'com.midtrans:uikit:1.23.1' // change the number to the latest version
 
     // For using the Midtrans Production
     //compile 'com.midtrans:uikit:1.21.2' // change the number to the latest version
